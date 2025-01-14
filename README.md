@@ -1,5 +1,5 @@
 <h1 align="center">Hey 🙋🏿‍♂️ What's up?</h1>
-<h3 align="center">I'm Hércules Diogo ➡️ a passionate Salesforce Developer and DevOps Engineer from Portugal</h3>
+<h3 align="center">💫 I'm Hércules Diogo ➡️ a passionate Salesforce Developer and DevOps Engineer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3n4d&label=Profile%20views&color=0e75b6&style=flat" alt="m3n4d" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/M3N4D](https://github.com/M3N4D)
 
-- 💬 Ask me about **Salesforce & DevOps Tools**
+- 💬 Ask me about **Salesforce, Integration, Lightning Development & DevSecOps**
 
 - 📫 How to reach me **hercules.menad89@gmail.com**
 
